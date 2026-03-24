@@ -67,6 +67,9 @@ Use the following prompt to install the rss-digest skill:
 ### Step 3: Import RSS feeds
 ### 步骤3：导入RSS订阅源
 
+![Andrej Karpathy推荐的RSS订阅源](./image2.jpg)
+[https://x.com/zodchiii/status/2034924354337714642?s=46](https://x.com/zodchiii/status/2034924354337714642?s=46)
+
 Use the rss-digest skill to import the provided OPML file containing English tech/blog RSS feeds:
 
 使用rss-digest技能导入包含英文技术/博客RSS订阅源的OPML文件：
@@ -98,6 +101,8 @@ Use the following prompt to aggregate your RSS subscriptions:
 ```
 使用`rss-digest`技能聚合RSS订阅
 ```
+
+![最终效果](./image1.png)
 
 ## Requirements
 ## 要求
